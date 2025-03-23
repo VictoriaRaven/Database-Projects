@@ -3,8 +3,8 @@
 
 Regarding Copyright laws by GitHub it states that a public repository without a license means that if you want to use my code you must fork my repository as I retain all proprietary rights.
 
-Link to the GitHub Copyright and Licenses:
-[gist](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+Link:  
+[GitHub Copyright and Licenses](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 
 ## Information
 

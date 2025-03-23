@@ -22,7 +22,7 @@ of conduct, and the process for submitting pull requests to me.
 
 ## Authors
 
-  - **Victoria Lee** - *Provided README Template* -
+  - **Victoria Lee** - *provided by the README* -
     [VictoriaRaven](https://github.com/VictoriaRaven)
 
 See also the list of

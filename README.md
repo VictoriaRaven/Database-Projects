@@ -31,6 +31,8 @@ who participated in this project.
 
 ## Acknowledgments
 
+- [Microsft SQL Tutorials](https://learn.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver16)
+- [TutorialsPoint SQL](https://www.tutorialspoint.com/ms_sql_server/index.htm)
 - [UMGC Peer to Peer File Sharing](https://www.umgc.edu/content/dam/umgc/documents/upload/peer-to-peer-file-sharing.pdf)
 - [UMGC Copyright and Fair Use](https://libguides.umgc.edu/copyright#s-lg-box-26283861)
 - [UMGC Creative Commons](https://libguides.umgc.edu/c.php?g=23404&p=7944948)

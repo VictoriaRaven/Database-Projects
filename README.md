@@ -9,7 +9,7 @@ Links:
 
 ## Information
 
-The Database projects with SQL and written reports in APA reserach format are based on the Relational-Database-Concepts-and-Applications class taken at UMGC. I will not upload other than the project as the rest is part of the course's answer keys. Under the copyright and policies of intellectual property for UMGC, I will only upload items that do not have an answer and it's my projects or assignments that require self-inspired invention. Read all comments in the code.
+The Database projects with SQL and written reports in APA reserach format are based on the Relational-Database-Concepts-and-Applications class taken at UMGC. Thses are my projects for class Relational-Database-Concepts-and-Applications and applying them to the Guitar studio/movie store databases. I will not upload other than the project as the rest are part of the course's answer keys. Under the copyright and policies of intellectual property for UMGC, I will only upload items that do not have an answer key and it would mean my projects or assignments that require self-inspired invention. Read all comments in the code.
 
 ### Contact
 
